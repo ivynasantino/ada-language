@@ -1,3 +1,3 @@
 # Ada language
 
-Repositório para praticar a linguagem Ada baseado nas questões do URI
+Scripts criados afim de estudo e curiosidade da linguagem Ada.
